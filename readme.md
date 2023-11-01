@@ -1,0 +1,2 @@
+# Project Description
+A Phone Marketplace is a web application designed to connect buyers and sellers of mobile phones and related accessories. It offers a convenient and user-friendly online marketplace for individuals and businesses looking to buy or sell new and used smartphones, tablets, and associated products. 
